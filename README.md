@@ -20,12 +20,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-your-first-project.md](what-is-lenft/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/creating-your-loan.md" %}
+[creating-your-loan.md](guides/creating-your-loan.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="guides/supply-assets-to-a-reserve.md" %}
+[supply-assets-to-a-reserve.md](guides/supply-assets-to-a-reserve.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

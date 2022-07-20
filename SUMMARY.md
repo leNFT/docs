@@ -5,8 +5,8 @@
 
 ## Guides
 
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Creating your loan](guides/creating-your-loan.md)
+* [Supply assets to a reserve](guides/supply-assets-to-a-reserve.md)
 
 ## Fundamentals
 
