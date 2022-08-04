@@ -20,12 +20,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-your-first-project.md](what-is-lenft/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-loan.md" %}
-[creating-your-loan.md](guides/creating-your-loan.md)
+{% content-ref url="basics/creating-your-loan.md" %}
+[creating-your-loan.md](basics/creating-your-loan.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/supply-assets-to-a-reserve.md" %}
-[supply-assets-to-a-reserve.md](guides/supply-assets-to-a-reserve.md)
+{% content-ref url="basics/supply-assets-to-a-reserve.md" %}
+[supply-assets-to-a-reserve.md](basics/supply-assets-to-a-reserve.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -36,20 +36,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals/risks.md" %}
+[risks.md](fundamentals/risks.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="fundamentals/asset-pricing.md" %}
+[asset-pricing.md](fundamentals/asset-pricing.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
