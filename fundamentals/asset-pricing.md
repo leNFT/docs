@@ -1,5 +1,7 @@
-# Task Lists
+# Asset Pricing
+
+Asset pricing data is taken from [Upshot's Pricing API](https://upshot.xyz/) and fed on-chain through a trusted oracle controlled by the leNFT team.
 
 {% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
+NFT Pricing is a pretty new area. The leNFT team is looking into alternative ways of feeding pricing data on-chain. &#x20;
 {% endhint %}
