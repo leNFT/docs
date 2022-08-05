@@ -10,9 +10,3 @@ There are two main actors in leNFT:
 {% hint style="danger" %}
 **leNFT is a very early stage product.** Not recommended for users without any prior web3 experience. Please join our [discord](https://discord.gg/hWyBHrUDAk) for more information.
 {% endhint %}
-
-### Jump right in
-
-{% content-ref url="what-is-lenft/creating-your-first-project.md" %}
-[creating-your-first-project.md](what-is-lenft/creating-your-first-project.md)
-{% endcontent-ref %}
