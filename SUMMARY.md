@@ -7,7 +7,7 @@
 ## Basics
 
 * [Create a loan](basics/creating-your-loan.md)
-* [Deposit assets into a reserve](basics/supply-assets-to-a-reserve.md)
+* [Deposit assets into a reserve](basics/deposit-assets-into-a-reserve.md)
 * [Liquidate a loan](basics/liquidate-a-loan.md)
 
 ## Fundamentals
