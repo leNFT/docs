@@ -14,6 +14,7 @@
 
 * [Risks](fundamentals/risks.md)
 * [Asset Pricing](fundamentals/asset-pricing.md)
+* [Interest Rates](fundamentals/interest-rates.md)
 
 ## Use Cases
 
