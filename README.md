@@ -8,11 +8,11 @@ There are two main actors in leNFT:
 * **Lenders** -> people who lend money to the protocol's reserves in exchange for an a variable interest rate.
 
 {% hint style="danger" %}
-**leNFT is a very early stage product. N**ot recommended for users without any prior web3 experience. Please join our [discord](https://discord.gg/hWyBHrUDAk) for more information.
+**leNFT is a very early stage product.** Not recommended for users without any prior web3 experience. Please join our [discord](https://discord.gg/hWyBHrUDAk) for more information.
 {% endhint %}
 
 ### Jump right in
 
-{% content-ref url="what-is-lenft/creating-your-first-loan.md" %}
-[creating-your-first-loan.md](what-is-lenft/creating-your-first-loan.md)
+{% content-ref url="what-is-lenft/creating-your-first-project.md" %}
+[creating-your-first-project.md](what-is-lenft/creating-your-first-project.md)
 {% endcontent-ref %}

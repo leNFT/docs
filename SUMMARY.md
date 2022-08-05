@@ -1,13 +1,13 @@
 # Table of contents
 
 * [What is leNFT?](README.md)
-  * [Creating your first loan](what-is-lenft/creating-your-first-loan.md)
+  * [Creating your first loan](what-is-lenft/creating-your-first-project.md)
   * [Supported Collections](what-is-lenft/supported-collections.md)
 
 ## Basics
 
-* [Create a loan](basics/create-a-loan.md)
-* [Supply assets to a reserve](basics/supply-assets-to-a-reserve.md)
+* [Create a loan](basics/creating-your-loan.md)
+* [Deposit assets into a reserve](basics/deposit-assets-into-a-reserve.md)
 * [Liquidate a loan](basics/liquidate-a-loan.md)
 
 ## Fundamentals
