@@ -1,16 +1,16 @@
 # Create a loan
 
-You can create a loan by going to leNFT interface's main page and clicking on the NFT you want to use as collateral. The collateral has to be approved and can then be used as collateral for a new loan.\
-Only NFT's belonging to [supported collections](../what-is-lenft/supported-collections.md) can be used as collateral for a loan.
+You can create a loan by going to leNFT interface and clicking on the NFT you want to use as collateral. The collateral has to be approved and can then be used as collateral for a new loan.\
+Only NFT's belonging to one of the [supported collections](../what-is-lenft/supported-collections.md) can be used as collateral for a loan.
 
 #### Maximum borrowable amount
 
-Let's suppose you want to take out a loan by using CryptoPunk #45. Let's also suppose that:
+Let's suppose you want to take out a loan using CryptoPunk #45. Let's also suppose that:
 
 * leNFT prices this asset at 100 ETH
 * the CryptoPunks collection has a maximum [LTV](https://en.wikipedia.org/wiki/Loan-to-value\_ratio) of 60%
 
-This means that if you take out a loan against your CryptoPunk your loan would be free of liquidation right up until your principal + interest were worth 60 ETH.
+This means that if you take out a loan against your CryptoPunk your loan is not at risk of being liquidated right up until your principal + interest are worth 60 ETH.
 
 {% hint style="info" %}
 To avoid unexpected liquidations the UI only allows users to create loans worth half of the liquidation threshold (30 ETH in the aforementioned example).\
