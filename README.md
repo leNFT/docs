@@ -1,11 +1,11 @@
 # What is leNFT?
 
-leNFT is a peer-to-pool NFT lending market. It allows you to instantly borrow money using the NFT's in your wallet as loan collateral.
+leNFT is a peer-to-pool **NFT lending platform ** that allows you to get loans using NFTs as collateral.
 
-There are two main actors in leNFT:
+There are two main roles in leNFT:
 
-* **Borrowers** -> people who want to borrow money using their NFTs as a collateral while paying an interest rate on their loan.
-* **Lenders** -> people who lend money to the protocol's reserves in exchange for an a variable interest rate.
+* **Borrowers** -> People who use NFTs as collateral to obtain loans while paying interest.
+* **Lenders** -> People who lends assets to a borrower and receives variable interest.
 
 {% hint style="danger" %}
 **leNFT is a very early stage product.** Not recommended for users without any prior web3 experience. Please join our [discord](https://discord.gg/hWyBHrUDAk) for more information.
