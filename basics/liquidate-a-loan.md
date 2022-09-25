@@ -9,7 +9,7 @@ The liquidation price, is marked at **82%** of the collateral's valuation.
 
 #### LE Rewards
 
-&#x20;LE token liquidation rewards are given in accordance to the expressions below.\
+LE token liquidation rewards are given in accordance to the expressions below:\
 
 
 When collateral price > liquidation price:
