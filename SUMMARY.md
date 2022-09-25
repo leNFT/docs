@@ -16,7 +16,14 @@
 * [Asset Pricing](fundamentals/asset-pricing.md)
 * [Interest Rates](fundamentals/interest-rates.md)
 
+## LE Token Mechanics
+
+* [Liquidation Rewards](le-token-mechanics/liquidation-rewards.md)
+* [Boost](le-token-mechanics/boost.md)
+* [Distribution](le-token-mechanics/distribution.md)
+
 ## Use Cases
 
-* [For NFT Holders](use-cases/for-nft-holders.md)
+* [For LE Holders](use-cases/for-le-holders.md)
+* [For NFT Owners](use-cases/for-nft-holders.md)
 * [For Lenders](use-cases/for-lenders.md)
