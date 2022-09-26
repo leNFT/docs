@@ -7,13 +7,11 @@ LE token liquidation rewards are given in accordance to the expressions below:
 **When collateral price > liquidation price:**
 
 $$
-\frac{assetPrice}{rewardFactor\cdot underlyingTokenPrice\cdot LEPrice\cdot(2 \cdot liquidationPrice-assetPrice)}
+\frac{assetPrice}{rewardFactor\cdot underlyingTokenPrice\cdot LEPrice\cdot(2 \cdot assetPrice - liquidationPrice)}
 $$
 
 **When collateral price <= liquidation price:**
 
 $$
-\frac{liquidationPrice}{rewardFactor\cdot underlyingTokenPrice\cdot LEPrice\cdot(2 \cdot assetPrice-liquidationPrice)}
+\frac{liquidationPrice}{rewardFactor\cdot underlyingTokenPrice\cdot LEPrice\cdot(2 \cdot liquidationPrice - assetPrice)}
 $$
-
-​
