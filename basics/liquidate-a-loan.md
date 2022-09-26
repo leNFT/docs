@@ -14,9 +14,9 @@ $$
 If the debt is higher than or equal to **82%** of the collateral's valuation then liquidation price will be set at:
 
 $$
-liquidationPrice = debt
+liquidationPrice = principal + interest
 $$
 
 #### LE Rewards
 
-In order to incentivize liquidators, LE Rewards are distributed whenever you liquidate a loan. The amount of tokens to be distributed with each liquidation is calculated through the expressions available  [here](../le-token-mechanics/liquidation-rewards.md).
+In order to incentivize liquidators, LE Rewards are distributed whenever you liquidate a loan. The amount of tokens to be distributed with each liquidation is calculated through the expressions available [here](../le-token-mechanics/liquidation-rewards.md).
