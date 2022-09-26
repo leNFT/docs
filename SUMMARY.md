@@ -18,6 +18,7 @@
 
 ## LE Token Mechanics
 
+* [Stake](le-token-mechanics/stake.md)
 * [Liquidation Rewards](le-token-mechanics/liquidation-rewards.md)
 * [Boost](le-token-mechanics/boost.md)
 * [Distribution](le-token-mechanics/distribution.md)
