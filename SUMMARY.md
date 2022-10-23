@@ -15,6 +15,7 @@
 * [Risks](fundamentals/risks.md)
 * [Asset Pricing](fundamentals/asset-pricing.md)
 * [Interest Rates](fundamentals/interest-rates.md)
+* [Reserve Parameters](fundamentals/reserve-parameters.md)
 
 ## LE Token Mechanics
 
@@ -25,6 +26,7 @@
 
 ## Use Cases
 
-* [For LE Holders](use-cases/for-le-holders.md)
-* [For NFT Owners](use-cases/for-nft-holders.md)
-* [For Lenders](use-cases/for-lenders.md)
+* [LE Holders](use-cases/le-holders.md)
+* [NFT Owners](use-cases/for-nft-holders.md)
+* [Lenders](use-cases/for-lenders.md)
+* [NFT Communities](use-cases/nft-communities.md)

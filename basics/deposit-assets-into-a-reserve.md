@@ -8,4 +8,4 @@ The liquidation rewards mechanism provides some protection against bad debt by i
 
 #### How to?
 
-To deposit assets in a reserve simply go to the "Supply" page on the leNFT interface and choose the reserve you want to the deposit into, at the moment only WETH is supported. You will then be prompted to approve, and then deposit your tokens.
+To deposit assets in a reserve simply please follow this [link](https://lenft.fi/reserves/) and go to the details page of the reserve you want to the deposit into. You can then click on the "Deposit" button which will will then prompt you to approve, and then deposit your tokens.
