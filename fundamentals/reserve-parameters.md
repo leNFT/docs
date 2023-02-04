@@ -1,6 +1,6 @@
 # Pool Parameters
 
-When a new lending pool is created its parameters are set according to the following table:
+Lending Pools
 
 | Parameter                | Default Value |
 | ------------------------ | ------------- |
@@ -9,4 +9,10 @@ When a new lending pool is created its parameters are set according to the follo
 | Maximum Utilization Rate | 85%           |
 | Underlying Safeguard     | 25 ETH        |
 
-Changes to default lending pool parameterization can then be done through a contract call.&#x20;
+Trading Pools
+
+| Parameter          | Default Value       |
+| ------------------ | ------------------- |
+| Protocol Trade Fee | 10% of user set fee |
+
+Changes to the default parameterization can then be done through a contract call.&#x20;
