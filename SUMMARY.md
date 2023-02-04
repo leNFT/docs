@@ -9,8 +9,7 @@
 * [Create a loan](basics/creating-your-loan.md)
 * [Liquidate a loan](basics/liquidate-a-loan.md)
 * [Repay a loan](basics/repay-a-loan.md)
-* [Buy](basics/buy.md)
-* [Sell](basics/sell.md)
+* [Buy/Sell](basics/buy-sell.md)
 * [Swap](basics/swap.md)
 
 ## Fundamentals
