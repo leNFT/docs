@@ -1,4 +1,4 @@
-# Deposit assets into a reserve
+# Deposit in a lending pool
 
 Liquidity suppliers take a major role in leNFT. Their assets are used by the protocol to provide loans to NFT holders while also accruing fees by doing so.
 
