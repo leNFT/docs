@@ -1,33 +1,34 @@
 # Table of contents
 
 * [What is leNFT?](README.md)
-  * [Creating your first loan](what-is-lenft/creating-your-first-project.md)
-  * [Supported Collections](what-is-lenft/supported-collections.md)
+* [Genesis Mint](genesis-mint.md)
 
 ## Basics
 
+* [Deposit in a lending pool](basics/deposit-in-a-lending-pool.md)
 * [Create a loan](basics/creating-your-loan.md)
-* [Deposit assets into a reserve](basics/deposit-assets-into-a-reserve.md)
 * [Liquidate a loan](basics/liquidate-a-loan.md)
-* [Genesis Mint](basics/genesis-mint.md)
+* [Repay a loan](basics/repay-a-loan.md)
+* [Buy](basics/buy.md)
+* [Sell](basics/sell.md)
+* [Swap](basics/swap.md)
 
 ## Fundamentals
 
 * [Risks](fundamentals/risks.md)
 * [Asset Pricing](fundamentals/asset-pricing.md)
 * [Interest Rates](fundamentals/interest-rates.md)
-* [Reserve Parameters](fundamentals/reserve-parameters.md)
+* [Pool Parameters](fundamentals/pool-parameters.md)
 
 ## LE Token Mechanics
 
-* [Stake](le-token-mechanics/stake.md)
-* [Liquidation Rewards](le-token-mechanics/liquidation-rewards.md)
-* [Boost](le-token-mechanics/boost.md)
+* [Gauges](le-token-mechanics/gauges.md)
+* [Vote Lock](le-token-mechanics/vote-lock.md)
 * [Distribution](le-token-mechanics/distribution.md)
 
 ## Use Cases
 
 * [LE Holders](use-cases/le-holders.md)
 * [NFT Owners](use-cases/for-nft-holders.md)
-* [Lenders](use-cases/for-lenders.md)
+* [Liquidity Providers](use-cases/for-lps.md)
 * [NFT Communities](use-cases/nft-communities.md)
