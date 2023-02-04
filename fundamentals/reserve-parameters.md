@@ -1,4 +1,4 @@
-# Pool Parameters
+# Default Pool Parameters
 
 Lending Pools
 

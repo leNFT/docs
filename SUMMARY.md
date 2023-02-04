@@ -18,7 +18,7 @@
 * [Risks](fundamentals/risks.md)
 * [Asset Pricing](fundamentals/asset-pricing.md)
 * [Interest Rates](fundamentals/interest-rates.md)
-* [Default Pool Parameters](fundamentals/default-pool-parameters.md)
+* [Default Pool Parameters](fundamentals/reserve-parameters.md)
 * [Trading LP Parameters](fundamentals/trading-lp-parameters.md)
 
 ## LE Token Mechanics
