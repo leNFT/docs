@@ -28,7 +28,7 @@
 
 ## Use Cases
 
-* [LE Holders](use-cases/le-holders.md)
 * [NFT Owners](use-cases/for-nft-holders.md)
 * [Liquidity Providers](use-cases/for-lenders.md)
+* [LE Holders](use-cases/le-holders.md)
 * [NFT Communities](use-cases/nft-communities.md)
