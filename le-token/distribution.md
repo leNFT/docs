@@ -9,7 +9,7 @@ This corresponds to the following token distribution:
 * 15% - Team
 * 15% - leNFT DAO
 * 20% - Investors
-* 5% - Airdrop
+* 5% - Liquidity Mining Program
 * \[1.17%, 10%] - Genesis NFT Mint
 * \[35%, 43.83%] - 8-year inflation
 
