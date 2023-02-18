@@ -3,17 +3,18 @@
 * [What is leNFT?](README.md)
 * [Genesis Mint](basics/genesis-mint.md)
 
-## Lending
-
-* [Deposit in a lending pool](lending/deposit-in-a-lending-pool.md)
-* [Create a loan](lending/creating-your-loan.md)
-* [Liquidate a loan](lending/liquidate-a-loan.md)
-* [Repay a loan](lending/repay-a-loan.md)
-
 ## Trading
 
 * [Swap](trading/swap.md)
 * [Buy/Sell](trading/buy-sell.md)
+* [Deposit in a trading pool](trading/deposit-in-a-trading-pool.md)
+
+## Lending
+
+* [Create a loan](lending/creating-your-loan.md)
+* [Liquidate a loan](lending/liquidate-a-loan.md)
+* [Repay a loan](lending/repay-a-loan.md)
+* [Deposit in a lending pool](lending/deposit-in-a-lending-pool.md)
 
 ## Protocol
 

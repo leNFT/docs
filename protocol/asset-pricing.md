@@ -1,7 +1,7 @@
 # Asset Pricing
 
-Asset pricing data is taken from [Upshot's Pricing API](https://upshot.xyz/) and fed on-chain through a trusted oracle controlled by the leNFT developer.
+Asset pricing data is taken from [Upshot's Pricing API](https://upshot.xyz/) and fed on-chain through a trusted oracle controlled by the leNFT team.
 
 {% hint style="info" %}
-NFT Pricing is very recent challenge. The leNFT team is looking into alternative ways of feeding price data on-chain.
+Accurately pricing NFTs has become a recent challenge in the industry, and the leNFT team is actively exploring alternative ways to bring price data on-chain.
 {% endhint %}

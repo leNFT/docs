@@ -1,7 +1,5 @@
 # Gauges
 
-leNFT's approach to liquidity management uses gauges to optimize the incentives for lending and trading pools.
+leNFT's approach to liquidity management involves using gauges to incentivize activity in our lending and trading pools. After depositing assets in a pool, users receive an ERC721 (for trading pools) or ERC20 (for lending pools) token, which can then be staked in the pool's corresponding gauge to earn additional LE rewards.
 
-After you deposit in a pool you will receive an ERC721 (trading pools) or an ERC20 (lending pools) which can then be staked in the pool's gauge for extra LE rewards.
-
-Every pool can have a its own gauge, making it able to direct LE incentives to its own liquidity. Initially these gauges will be created by the dev team, this process will then be replace by a DAO proposal submission and approval vote.
+Each pool has its own gauge, enabling the direction of LE incentives towards specific liquidity pools. Initially, the development team will create these gauges. However, this process will eventually be replaced by a DAO proposal submission and approval vote to ensure the community's input is integrated into the platform's decision-making process
