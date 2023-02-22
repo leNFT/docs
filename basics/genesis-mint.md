@@ -11,3 +11,5 @@ reward= \frac{locktime * (4999 - \frac{minted}{2})}{50000000}*10^{18}
 $$
 
 The locktime is in seconds and 'minted' is the number of Genesis NFTs already minted.
+
+Users can only have one active lock at a time, meaning they won't be able to mint a Genesis NFT again until their lock is over. If a user wishes to participate in the minting process but has an active lock period, they can still do so using a different address.
