@@ -9,7 +9,7 @@ Here's how voting for a gauge works:
 2. The smart contract aggregates the locked tokens and determines the overall vote for each gauge.
 3. Based on the results of the vote, the protocol adjusts the incentive levels for each gauge accordingly.
 
-Locking tokens will also boost a user's gauge rewards all the way up until 2.5x.
+Locking tokens will also boost a user's gauge rewards all the way up until 2.0x.
 
 
 
