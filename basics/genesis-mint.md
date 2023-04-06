@@ -25,5 +25,5 @@ Users can only have one active lock at a time, meaning they won't be able to min
 There are 3 things you can currently do with your Genesis NFT:
 
 * Increase the LTV of your next loan by 5%.
-* Pair it with ETH and provide liquidity in the Genesis NFT / ETH trading pool. Then stake the LP token you received in the pool's gauge.
+* Pair it with ETH and provide liquidity in the Genesis NFT / ETH trading pool. Then stake the LP token you received in the pool's gauge for extra LE rewards.
 * Use it to join the exclusive areas of our Discord.
