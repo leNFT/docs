@@ -7,7 +7,7 @@ leNFT's native token inflation follows the predetermined schedule detailed below
 This corresponds to the following token distribution:
 
 * 17.5% - Team
-* 17.5% - leNFT DAO
+* 17.5% - leNFT Treasury
 * 5% - Liquidity Mining Program
 * \[1.17%, 10%] - Genesis NFT Mint
 * \[50%, 58.83%] - 8-year inflation
