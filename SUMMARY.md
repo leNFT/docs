@@ -31,6 +31,11 @@
 * [Vote Lock](le-token/vote-lock.md)
 * [Distribution](le-token/distribution.md)
 
+## Bribes
+
+* [Deposit Bribes](bribes/deposit-bribes.md)
+* [Claim Bribes](bribes/claim-bribes.md)
+
 ## Use Cases
 
 * [NFT Owners](use-cases/for-nft-holders.md)
