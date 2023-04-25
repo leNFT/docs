@@ -24,8 +24,8 @@
 
 ## 💰 Bribing
 
-* [Deposit Bribes](bribing/deposit-bribes.md)
-* [Claim Bribes](bribing/claim-bribes.md)
+* [Deposit Bribes](bribes/deposit-bribes.md)
+* [Claim Bribes](bribes/claim-bribes.md)
 
 ## 📚 Use Cases
 

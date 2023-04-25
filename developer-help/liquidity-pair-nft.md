@@ -8,7 +8,7 @@ When a user deposits into a leNFT trading liquidity pool, they will obtain a liq
 
 Below is an example of the dynamic metadata found in an LP NFT:
 
-{% code overflow="wrap" lineNumbers="true" %}
+{% code title="Trading LP NFT Metadata" overflow="wrap" lineNumbers="true" %}
 ```json
 {
    "name":"Liquidity Pair TNFTWETH #0",
