@@ -7,5 +7,8 @@ Each pool has its own gauge, enabling the direction of LE incentives towards spe
 The amount of gauge rewards distributed per epoch depends on the ratio of locked/total LE and is given by the following formula:
 
 $$
-rewards(epoch) = \text{rewards_ceiling}(\text{epoch}) \times \left(\frac{\text{locked_LE}}{\text{total_LE}}\right)^3
+rewards(epoch) = \text{rewards_ceiling}(\text{epoch}) \times \left(\frac{\text{locked_LE}}{5\cdot\text{total_LE}}\right)^3
 $$
+
+
+
