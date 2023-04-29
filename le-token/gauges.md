@@ -10,9 +10,9 @@ $$
 rewards(epoch) = \text{rewards_ceiling}(\text{epoch}) \times \left(\frac{\text{locked_LE}}{5\cdot\text{total_LE}}\right)^3
 $$
 
-### Maturity Boost for Sticky LP Liquidity
+### Maturity Multiplier for Sticky LP Liquidity
 
-To encourage long-term liquidity provision with stable LP positions, leNFT employs a unique feature known as the "Maturity Boost". This mechanism progressively increases the rewards offered to stakers, reaching a maximum 2x boost after a period of 6 weeks.
+To encourage long-term liquidity provision with stable LP positions, leNFT employs a feature called "Maturity BooMultiplierst". This mechanism progressively increases the rewards offered to stakers, reaching a maximum after a period of 6 weeks.
 
 Please note that if a user engages with the gauge through any of the following actions - deposit, withdraw, or claim - the boost will be reset to its initial state.
 
