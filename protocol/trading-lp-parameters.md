@@ -4,13 +4,13 @@ When providing liquidity to trading pools, there are multiple parameters that ne
 
 **Type (soon to be available):**
 
-| Type       | Holds         |                                                      |
-| ---------- | ------------- | ---------------------------------------------------- |
-| Trade      | NFTs & Tokens | Can buy and sell and price can increase and decrease |
-| TradeRight | NFTs & Tokens | Can buy and sell and price can only increase         |
-| TradeLeft  | NFTs & Tokens | Can buy and sell and price can only decrease         |
-| Buy        | Only Tokens   | Can only buy (price will only decrease)              |
-| Sell       | Only NFTs     | Can only sell (price will only increase)             |
+| Type      | Holds         |                                                      |
+| --------- | ------------- | ---------------------------------------------------- |
+| Trade     | NFTs & Tokens | Can buy and sell and price can increase and decrease |
+| TradeUp   | NFTs & Tokens | Can buy and sell and price can only increase         |
+| TradeDown | NFTs & Tokens | Can buy and sell and price can only decrease         |
+| Buy       | Only Tokens   | Can only buy (price will only decrease)              |
+| Sell      | Only NFTs     | Can only sell (price will only increase)             |
 
 **Price Curve** **-** Controls how the LP's price changes after each trade. There are two options: linear and exponential.
 
