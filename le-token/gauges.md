@@ -10,6 +10,10 @@ $$
 rewards(epoch) = \text{rewards_ceiling}(\text{epoch}) \times \left(\frac{\text{locked_LE}}{5\cdot\text{total_LE}}\right)^3
 $$
 
+Resulting in the following curve:
+
+<figure><img src="../.gitbook/assets/rewards.png" alt=""><figcaption></figcaption></figure>
+
 ### Maturity Multiplier for Sticky LP Liquidity
 
 To encourage long-term liquidity provision with stable LP positions, leNFT employs a feature called "Maturity Multiplier". This mechanism progressively increases the rewards offered to stakers, reaching a maximum after a period of 6 weeks.
