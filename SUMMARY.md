@@ -45,5 +45,6 @@
 
 ## 👩💻 Developer Help
 
+* [On-chain Trading Orders](developer-help/on-chain-trading-orders.md)
 * [Liquidity Pair NFT](developer-help/liquidity-pair-nft.md)
 * [veLE Lock NFT](developer-help/vele-lock-nft.md)
