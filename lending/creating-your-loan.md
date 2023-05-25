@@ -9,13 +9,9 @@ Let's suppose you want to take out a loan using CryptoPunk #45. Let's also suppo
 
 * leNFT prices this asset at 100 ETH
 * the CryptoPunks collection has a maximum [LTV](https://en.wikipedia.org/wiki/Loan-to-value\_ratio) of 60%
+* the CryptoPunks collection has a liquidation threshold of 80%
 
-This means that if you create a loan using CryptoPunk #45 as collateral, your loan is not at risk of being liquidated right up until your debt (principal + interest) reaches 60 ETH.
-
-{% hint style="info" %}
-To avoid unexpected liquidations the UI only allows users to create loans worth half of the liquidation threshold (30 ETH for the aforementioned example).\
-Bigger loans can be created by interaction directly with the leNFT contracts.
-{% endhint %}
+This means that if you create a loan using CryptoPunk #45 as collateral you can borrow a maximum of 60 ETH and your loan is not at risk of being liquidated right up until your debt (principal + interest) reaches 80 ETH.
 
 #### Health level
 
