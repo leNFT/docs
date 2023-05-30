@@ -12,8 +12,9 @@
 ## 🏦 Lending
 
 * [Create a loan](lending/creating-your-loan.md)
-* [Liquidate a loan](lending/liquidate-a-loan.md)
 * [Repay a loan](lending/repay-a-loan.md)
+* [Auction a loan](lending/liquidate-a-loan.md)
+* [Bid on an auction](lending/bid-on-an-auction.md)
 * [Deposit in a lending pool](lending/deposit-in-a-lending-pool.md)
 
 ## ⛽ LE Token
