@@ -1,16 +1,12 @@
 # Distribution
 
-leNFT's native token inflation follows the predetermined schedule detailed below:
-
-<figure><img src="../.gitbook/assets/distribution.png" alt=""><figcaption></figcaption></figure>
-
-This corresponds to the following token distribution:
-
-* 17.5% - Team
-* 17.5% - leNFT Treasury
-* 5% - Liquidity Mining Program
-* \[1.17%, 10%] - Genesis NFT Mint
-* \[50%, 58.83%] - 8-year inflation
+| Owner                    | Amount (%)        | Details                                                     |
+| ------------------------ | ----------------- | ----------------------------------------------------------- |
+| leNFT Team               | 17.5%             | 6 months cliff + 2 years vesting                            |
+| Protocol Treasury        | 17.5%             | 6 months cliff + 2 years vesting                            |
+| Liquidity Mining Program | 5%                | Reserved to be used as part of a LMP for the LE/WETH pools. |
+| Genesis NFT Mint         | \[0.41%, 5.21%]   | Minted as a reward for Genesis NFT buyers.                  |
+| LP Rewards & Rebates     | \[54.79%, 59.59%] | To be distributed at a diminishing rate of 2¼               |
 
 The maximum supply is 100M tokens.
 
