@@ -1,2 +1,0 @@
-# Bid on an auction
-
