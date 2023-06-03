@@ -11,7 +11,7 @@ The Genesis NFT itself is always transferable between different users.
 Additionally, users who mint a Genesis NFT are also rewarded with LE tokens, which are given in the form of veLE tokens locked for the chosen locktime. These tokens represent a share of protocol revenue and can also be used to vote for gauges that distribute inflation within the ecosystem. LE tokens are distributed according to the following formula:
 
 $$
-reward= \frac{locktime * (1337 - \frac{minted}{2})}{12500000}\hspace{2mm}LE
+reward= \frac{locktime * (1337 - \frac{minted}{2})}{4000000}\hspace{2mm}LE
 $$
 
 The locktime is in seconds and 'minted' is the number of Genesis NFTs already minted.
