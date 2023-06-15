@@ -23,3 +23,10 @@ There are 3 things you can currently do with your Genesis NFT:
 * Increase the LTV of your next loan by 2.5%.
 * Pair it with ETH and provide liquidity in the Genesis NFT / ETH trading pool. Then stake the LP token you received in the pool's gauge for extra LE rewards.
 * Use it to join the exclusive areas of our Discord.
+
+## What will the money raised be used for?
+
+* **Audits:** The funding will first and foremost be allocated to cover the cost of the audit that has already been conducted. This ensures our systems and operations maintain the high standard we strive for. Moving forward, we also anticipate the need for future audits to consistently maintain these standards, and we will set aside a portion of the funds for these anticipated costs.
+* **New Developer Hire:** To bolster our technical prowess and enhance our product development capabilities, we plan to hire an additional software developer for a term of one year.
+* **Community/Social Manager Hire:** Understanding the importance of a vibrant community and strong social media presence, we will hire a community/social manager for a one-year term to foster and strengthen these areas.
+* **Paying for a New UI Implementation:** We have already invested in designing a new user interface to provide a more seamless and user-friendly experience. The funds will be used to pay for this design and cover the cost of its implementation.
