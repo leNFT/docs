@@ -42,6 +42,7 @@
 * [Default Pool Parameters](protocol/default-pool-parameters.md)
 * [Trading LP Parameters](protocol/trading-lp-parameters.md)
 * [Contract Addresses](protocol/contract-addresses.md)
+* [Audits](protocol/audits.md)
 
 ## 👩💻 Developer Help
 
