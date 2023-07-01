@@ -4,7 +4,7 @@
 
 The Genesis Mint is an exclusive collection of non-fungible tokens (NFTs) that commemorates the launch of the Genesis NFT protocol. Limited to just 1337 tokens, each NFT can be minted for a price of 0.25 ETH. Although there is no whitelist for this mint, its announcement will be made on leNFT's [Discord](https://discord.gg/B62BgWmGQT) 48 hours before it is disclosed anywhere else.
 
-When a user mints a Genesis NFT, they have the option to choose a locktime duration between 21 and 180 days. The protocol then pairs 0.1 ETH with 40000 LE tokens and deposits all the tokens  into a LE/ETH trading pool. After the lockup period, the Genesis NFT can be burned and the liquidity position withdrawn. If the withdrawal amount is higher than 40000 LE the user will receive WITHDRAWAL\_AMOUNT - 40000 LE tokens, if the withdrawal amount is smaller than 40000 LE the burn won't yield any LE.\
+When a user mints a Genesis NFT, they have the option to choose a locktime duration between 21 and 180 days. The protocol then pairs 0.1 ETH with 40000 LE tokens and deposits all the tokens  into a [LE/ETH trading pool](https://app.balancer.fi/#/ethereum/pool/0x8e6c196e201942246cef85718c5d3a5622518053000200000000000000000582). After the lockup period, the Genesis NFT can be burned and the liquidity position withdrawn. If the withdrawal amount is higher than 40000 LE the user will receive WITHDRAWAL\_AMOUNT - 40000 LE tokens, if the withdrawal amount is smaller than 40000 LE the burn won't yield any LE.\
 The remaining 0.15 ETH is reserved for protocol development costs. \
 The Genesis NFT itself is always transferable between different users.
 
