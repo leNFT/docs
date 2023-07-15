@@ -1,6 +1,6 @@
 # What is leNFT?
 
-Introducing leNFT, a new protocol that aims to revolutionize NFT finance by providing a robust and efficient platform for NFT trading and lending.
+Introducing leNFT, a new protocol that aims to revolutionize NFT finance by providing a robust liquidity layer fueled by sustainable incentives. In its first version, leNFT targets two NFTfi verticals:  lending and trading.
 
 For trading, the protocol utilizes an Automated Market Maker (AMM) model based on the lssvm model popularized by sudoswap. This approach aims to provide the most efficient liquidity utilization, resulting in more profits for liquidity providers and better pricing for traders. This makes leNFT an ideal choice for traders looking for low slippage and high capital efficiency.
 
