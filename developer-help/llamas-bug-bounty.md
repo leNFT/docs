@@ -18,4 +18,4 @@ Total Allocation: 1.5M LE
 
 High and Critical severity bugs require a PoC and a suggestion for a fix to be eligible for a reward.\
 \
-\*https://immunefi.com/severity-updated/
+\*[https://immunefi.com/severity-updated/](https://immunefi.com/severity-updated/)

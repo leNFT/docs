@@ -14,9 +14,17 @@ Resulting in the following curve:
 
 <figure><img src="../.gitbook/assets/rewards.png" alt=""><figcaption></figcaption></figure>
 
+The rewards ceiling is given by:
+
+$$
+\text{{rewards\_ceiling}} = \text{{2.8M}} \times \left(\frac{3}{4}\right)^{\lfloor \frac{{\text{{epoch}}}}{{52}} \rfloor}
+$$
+
+
+
 ### Loading Period
 
-Before full reward distribution occurs, there is a 24-epoch (6-month) loading period during which rewards increase linearly until they reach their final value.
+Contrary to the other inflation epochs, inflation epoch 0 has its rewards ceiling linearly increase until they reach its maximum value of 2.8M LE in the final week.
 
 ### Maturity Multiplier for Sticky LP Liquidity
 
