@@ -15,7 +15,7 @@ The following table outlines the reward allocation based on the severity of the 
 | Medium     | 150k LE |
 | Low        | 50k LE  |
 
-Total Allocation: 1.5M LE (vested over 6 months).\
+Total Allocation: 1.5M LE (1 week cliff + 6 months vesting).\
 High and Critical severity bugs require a PoC and a suggestion for a fix to be eligible for a reward.
 
 Our codebase is extensively documented, adhering to the [NatSpec Format](https://docs.soliditylang.org/en/develop/natspec-format.html). If you have any questions or require further clarification, please don't hesitate to ask them in our [Discord](https://discord.com/invite/QNpBmMCWmb).
