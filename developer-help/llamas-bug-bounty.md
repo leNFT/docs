@@ -4,7 +4,7 @@ description: 🦙🦙🦙
 
 # Llamas Bug Bounty
 
-To enhance the security and reliability of the leNFT protocol, we've established a bug bounty program specifically for the developers within the llamas community.\
+To enhance the security and reliability of the leNFT protocol, we've established a bug bounty program specifically for the developers within the llamas community. This bounty program is scheduled to take place over a span of 30 days, initiating on July 26th, 2023, and concluding on August 24th, 2023.\
 The codebase can be found [here](https://github.com/leNFT/contracts).\
 The following table outlines the reward allocation based on the severity of the bug discovered:
 
