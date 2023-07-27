@@ -44,6 +44,13 @@
 * [Contract Addresses](protocol/contract-addresses.md)
 * [Audits](protocol/audits.md)
 
+## 🛠 SDK
+
+* [Install](sdk/install.md)
+* [Query Functions](sdk/query-functions.md)
+* [Buy](sdk/buy.md)
+* [Sell](sdk/sell.md)
+
 ## 👩💻 Developer Help
 
 * [On-chain Trading Orders](developer-help/on-chain-trading-orders.md)
