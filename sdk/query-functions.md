@@ -6,7 +6,7 @@ description: Functions that return information about a trading pool's state.
 
 ### getPool
 
-```
+```javascript
 getPool(nft, token)
 ```
 
@@ -41,7 +41,7 @@ Returns the LP ID associated with a certain `nftId` in the `pool`.
 getPrice(pool)
 ```
 
-Returns the buy and sell price for a certain pool.
+Returns the lowest buy and highest sell price for a certain pool.
 
 
 
@@ -51,7 +51,7 @@ Returns the buy and sell price for a certain pool.
 getBuyQuote(amount, pool)
 ```
 
-Returns a pool's buy quote for an amount of NFTs.
+Returns a `pool`'s buy quote for an `amount` of NFTs, the cheapest combination of NFTs will be returned.
 
 ###
 
@@ -61,7 +61,7 @@ Returns a pool's buy quote for an amount of NFTs.
 getBuyExactQuote(nfts, pool)
 ```
 
-###
+Returns a `pool`'s buy quote for an array of `nfts`.
 
 ###
 
@@ -71,3 +71,4 @@ getBuyExactQuote(nfts, pool)
 getSellQuote(amount, pool)
 ```
 
+Returns a `pool`'s sell quote for an `amount` of NFTs.
