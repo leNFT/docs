@@ -1,6 +1,6 @@
 # Install
 
-The leNFT SDK is available through npm, to install do:
+The leNFT SDK is a way to directly integrate leNFT liquidity into your NFT project.
 
 ```javascript
 import leNFT from "lenft-sdk";	
