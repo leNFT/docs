@@ -50,6 +50,7 @@
 * [Query Functions](sdk/query-functions.md)
 * [Buy](sdk/buy.md)
 * [Sell](sdk/sell.md)
+* [Unity Integration](sdk/unity-integration.md)
 
 ## 👩💻 Developer Help
 
