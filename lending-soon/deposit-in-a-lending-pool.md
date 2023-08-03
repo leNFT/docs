@@ -1,6 +1,6 @@
-# Deposit in a lending pool
+# Deposit Liquidity
 
-Liquidity suppliers take a major role in leNFT. Their assets are used by the protocol to provide loans to NFT holders while also accruing fees by doing so.
+Lending liquidity depositors take a major role in leNFT. Their assets are used by the protocol to provide loans to NFT holders while also accruing fees by doing so.
 
 When depositing assets into leNFT users receive LP tokens, a representation of their share in the lending pool. These tokens will accrue value whenever a loan is paid and its corresponding interest is deposited in the underlying supply of the pool.
 

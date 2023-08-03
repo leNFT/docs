@@ -1,5 +1,6 @@
 ---
 description: 🦙🦙🦙
+layout: landing
 ---
 
 # Llamas Bug Bounty

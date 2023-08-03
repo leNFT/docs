@@ -3,24 +3,38 @@
 * [What is leNFT?](README.md)
 * [Genesis Mint](basics/genesis-mint.md)
 
+## 📑 User Guides
+
+* [Buy NFTs](user-guides/buy-nfts.md)
+* [Sell NFTs](user-guides/sell-nfts.md)
+* [Swap NFTs](user-guides/swap-nfts.md)
+* [Deposit Trading Liquidity](user-guides/deposit-trading-liquidity.md)
+* [Stake in a Trading Gauge](user-guides/stake-in-a-trading-gauge.md)
+* [Lock LE & Earn Fees](user-guides/lock-le-and-earn-fees.md)
+* [Vote for a Gauge](user-guides/vote-for-a-gauge.md)
+* [Borrow ETH (soon)](user-guides/borrow-eth-soon.md)
+
 ## 📈 Trading
 
-* [Swap](trading/swap.md)
 * [Buy/Sell](trading/buy-sell.md)
-* [Deposit in a trading pool](trading/deposit-in-a-trading-pool.md)
+* [Swap](trading/swap.md)
+* [Deposit Liquidity](trading/deposit-liquidity.md)
+* [Liquidity Pair NFT](trading/liquidity-pair-nft.md)
+* [On-chain Trading Orders](trading/on-chain-trading-orders.md)
 
-## 🏦 Lending
+## 🏦 Lending (soon)
 
-* [Create a loan](lending/creating-your-loan.md)
-* [Repay a loan](lending/repay-a-loan.md)
-* [Auctioning a loan](lending/liquidate-a-loan.md)
-* [Deposit in a lending pool](lending/deposit-in-a-lending-pool.md)
+* [Loan Creation](lending-soon/creating-your-loan.md)
+* [Repayment](lending-soon/repayment.md)
+* [Auction](lending-soon/auction.md)
+* [Deposit Liquidity](lending-soon/deposit-in-a-lending-pool.md)
 
 ## ⛽ LE Token
 
 * [Gauges](le-token/gauges.md)
 * [Vote Lock](le-token/vote-lock.md)
 * [Distribution](le-token/distribution.md)
+* [veLE Lock NFT](le-token/vele-lock-nft.md)
 
 ## 💰 Bribing
 
@@ -52,9 +66,6 @@
 * [Sell](sdk/sell.md)
 * [Unity Integration](sdk/unity-integration.md)
 
-## 👩💻 Developer Help
+***
 
-* [On-chain Trading Orders](developer-help/on-chain-trading-orders.md)
-* [Liquidity Pair NFT](developer-help/liquidity-pair-nft.md)
-* [veLE Lock NFT](developer-help/vele-lock-nft.md)
-* [Llamas Bug Bounty](developer-help/llamas-bug-bounty.md)
+* [Llamas Bug Bounty](llamas-bug-bounty.md)
