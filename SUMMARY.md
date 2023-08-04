@@ -9,7 +9,7 @@
 * [Sell NFTs](user-guides/sell-nfts.md)
 * [Swap NFTs](user-guides/swap-nfts.md)
 * [Deposit Trading Liquidity](user-guides/deposit-trading-liquidity.md)
-* [Stake in a Trading Gauge](user-guides/stake-in-a-trading-gauge.md)
+* [Stake in a Trading Gauge & Earn Rewards](user-guides/stake-in-a-trading-gauge-and-earn-rewards.md)
 * [Lock LE & Earn Fees](user-guides/lock-le-and-earn-fees.md)
 * [Vote for a Gauge](user-guides/vote-for-a-gauge.md)
 * [Borrow ETH (soon)](user-guides/borrow-eth-soon.md)
@@ -31,10 +31,10 @@
 
 ## ⛽ LE Token
 
-* [Gauges](le-token/gauges.md)
 * [Vote Lock](le-token/vote-lock.md)
 * [Distribution](le-token/distribution.md)
 * [veLE Lock NFT](le-token/vele-lock-nft.md)
+* [Gauges](le-token/gauges.md)
 
 ## 💰 Bribing
 

@@ -17,7 +17,3 @@ Here's how voting for a gauge works:
 3. Based on the results of the vote, the protocol adjusts the incentive levels for each gauge accordingly.
 
 Locking tokens will also boost a user's LP gauge rewards all the way up until 2.0x.
-
-
-
-\
