@@ -2,7 +2,7 @@
 
 The leNFT SDK is a way to directly integrate leNFT liquidity into your NFT project.
 
-Instal using npm:
+Install using npm:
 
 ```bash
 npm i lenft-sdk
