@@ -1,6 +1,6 @@
 # Deposit Bribes
 
-The bribes mechanism allows any user to 'bribe' veLE holders to incentivize them to vote for a specific gauge, with the goal of increasing its emissions. Bribes can be deposited during each epoch and will be valid for the subsequent epoch. Each epoch lasts for 7 days, starting at 00:00:00 UTC every Thursday.
+The bribes mechanism allows any user to use any ERC20 token 'bribe' veLE holders to incentivize them to vote for a specific gauge, with the goal of increasing its emissions. Bribes can be deposited during each epoch and will be valid for the subsequent epoch. Each epoch lasts for 7 days, starting at 00:00:00 UTC every Thursday.
 
 \
 **Example:**\
